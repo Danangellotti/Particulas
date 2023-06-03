@@ -1,2 +1,3 @@
 <h1> Proyecto Particulas </h1>
-<p>Este proyecto tiene como finalidad el trabajo o la reacción a través del contacto con el mouse o el teclado táctil de un celular</p>
+<strong>El código es una secuencia de instrucciones escritas en JavaScript para crear una animación de fuegos artificiales en un canvas HTML. El código utiliza la biblioteca Anime.js para manejar las animaciones y la detección de eventos para permitir que el usuario haga clic en la pantalla y active los fuegos artificiales. En resumen, este código crea una animación de fuegos artificiales interactiva en la pantalla utilizando JavaScript, HTML y CSS.
+Aquí esta el enlace para la ejecución del programa:  https://danangellotti.github.io/Particulas/</strong>
